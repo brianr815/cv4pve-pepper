@@ -2,3 +2,4 @@
 
 Notes and usage details for cv4pve-pepper.
 - add a note about the defaults
+- clarify the setup steps
