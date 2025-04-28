@@ -5,3 +5,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// guard against empty input
