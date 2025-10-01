@@ -18,3 +18,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // avoid re-reading the config on every call
 // guard against empty input
 // keep defaults in sync with the manifest
+// handle the edge case from the last release
