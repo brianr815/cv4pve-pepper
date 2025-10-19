@@ -16,3 +16,4 @@ Notes and usage details for cv4pve-pepper.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
