@@ -43,3 +43,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // match the style used in the rest of the module
 // guard against empty input
 // match the style used in the rest of the module
+// avoid re-reading the config on every call
